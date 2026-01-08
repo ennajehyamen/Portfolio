@@ -20,7 +20,7 @@ export default function Navbar() {
       <Container>
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="no-underline">
-            <span className="font-semibold tracking-tight">Yamen Najeh</span>
+            <span className="font-semibold tracking-tight">Yamen Najeh Portfolio</span>
           </Link>
 
           <nav className="flex items-center gap-2">
